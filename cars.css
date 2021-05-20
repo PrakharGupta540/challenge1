@@ -1,0 +1,91 @@
+
+.total{
+    width:720px;
+    height:390px;
+    margin: 150px auto;
+    position:relative;
+    color: white;
+}
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    letter-spacing: 1.5px;
+}
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+.sedan{
+    width:200px;
+    height: 350px;
+    position: absolute;
+    background-color:hsl(31, 77%, 52%) ;
+    padding:20px;
+}
+.suv{
+    width:200px;
+    height: 350px;
+    position: absolute;
+    left: 240px;
+    background-color: hsl(184, 100%, 22%);
+    padding:20px;
+}
+.luxury{
+    width:200px;
+    height: 350px;
+    position: absolute;
+    left: 480px;
+    background-color: hsl(179, 100%, 13%);
+    padding:20px;
+}
+
+.learn1{
+    margin-top:40px;
+    width: 120px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 59px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(31, 77%, 52%);
+    cursor: pointer;
+
+}
+
+.learn1:hover{
+    background-color: transparent;
+    color: white;
+}
+
+.learn2{
+    margin-top:40px;
+    width: 120px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 59px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(184, 100%, 22%);
+    cursor: pointer;
+
+}
+
+.learn2:hover{
+    background-color: transparent;
+    color: white;
+}
+
+.learn3{
+    margin-top:40px;
+    width: 120px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 59px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(179, 100%, 13%);
+    cursor: pointer;
+
+}
+
+.learn3:hover{
+    background-color: transparent;
+    color: white;
+}
+
